@@ -1,7 +1,7 @@
 {
     "name": "common-func",
-    "version": "4.0.0",
-    "homepage": "common-func",
+    "version": "5.0.0",
+    "homepage": "https://github.com/NikFranki/common-func",
     "description": "js common functions",
     "license": "MIT",
     "repository": "nikfranki/common-func",
