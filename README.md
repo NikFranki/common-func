@@ -1,6 +1,6 @@
 # common-func
 
-[![npm (scoped)](https://img.shields.io/npm/v/@franki/common-func.svg)](https://www.npmjs.com/package/@franki/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@franki/common-func.svg)](https://www.npmjs.com/package/@franki/common-func)
 
 javascript commons functions
 
