@@ -1,0 +1,13 @@
+{
+    "name": "common-func",
+    "version": "2.0.0",
+    "description": "js common functions",
+    "license": "MIT",
+    "repository": "nikfranki/common-func",
+    "main": "index.js",
+    "keywords": [
+        "common-func",
+        "npm",
+        "package"
+    ]
+}
